@@ -13,7 +13,9 @@ layout: home
 <h3><strong>Who is publishing</strong> information on these?</h3>
 </div>
 
-**The India Tree Inventory Database (INvenTree)** is collating information from disparate sources and developing a single open-access, searchable database of tree inventory datasets across the country.
+
+### **The India Tree Inventory Database (INvenTree)** is collating information from disparate sources and developing a single open-access, searchable database of tree inventory datasets across the country.
+
 
 ## How?
 
