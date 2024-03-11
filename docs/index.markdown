@@ -6,17 +6,17 @@ layout: home
 ---
 
 <div align="center">
-**Where** are India's trees?
+<strong>Where</strong> are India's trees?<br>
 
-**How are they changing** over time?
+<strong>How are they changing</strong> over time?<br>
 
-**Who is publishing** information on these?
+<strong>Who is publishing</strong> information on these?
 </div>
 
 ## Why
 
-Over the last few decades, Indian researchers have published over 300 papers using data from tree inventories across a large range of ecosystems. Even more data languishes in the unpublished literature, such as environment impact assessment reports and masters’ theses.
+Over the last few decades, Indian researchers have published *over 400 papers* using data from tree inventories across a large range of ecosystems. Even more data languishes in the unpublished literature, such as environment impact assessment reports and masters’ theses.
 
-These data have often been collected using standard methodologies and collectively span large space and time ranges. When synthesised, they can provide strong baselines and unmatched insights into India’s ecosystems, beyond the constraints that limit primary ecological data collection. 
+These data have often been collected **using standard methodologies** and collectively span large space and time ranges. When synthesised, they can provide strong baselines and unmatched insights into India’s ecosystems, beyond the constraints that limit primary ecological data collection. 
 
-Widening access to these data, we want to identify gaps and offer broad-scale insights for future forest conservation, management and restoration.
+**Widening access to these data**, we want to identify gaps and offer broad-scale insights for future forest conservation, management and restoration.
