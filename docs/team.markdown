@@ -13,7 +13,7 @@ permalink: /team/
 | Krishna Anujan   | Neha Mohan Babu | Abhishek Gopal     |
 | [Personal website](https://krishnaanujan.weebly.com)   | [Personal website](https://neha-mohanbabu.weebly.com/)        | [Personal website](https://sites.google.com/view/jahnavijoshi/team/phd-students?authuser=0#h.f6hb7mex66e5)      |
 
-![](assets/aparna_krishnan.jpg){:width="32.5%"} ![](assets/ankitha_jayanth.jpg){:width="32.5%"} ![](assets/tanaya_nair.jpg){:width="32.5%"}
+![](assets/aparna_krishnan.jpg){:width="32.75%"} ![](assets/ankitha_jayanth.jpg){:width="32.75%"} ![](assets/tanaya_nair.jpg){:width="32.75%"}
 
 | Aparna Krishnan   | Ankitha Jayanth | Tanaya Nair     |
 | [Personal website](https://krishnaanujan.weebly.com)   | [Personal website](https://neha-mohanbabu.weebly.com/)        | [Personal website](https://sites.google.com/view/jahnavijoshi/team/phd-students?authuser=0#h.f6hb7mex66e5)      |
