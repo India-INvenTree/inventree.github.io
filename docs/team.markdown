@@ -14,4 +14,4 @@ Solarized dark             |  Solarized Ocean         | Whatever
 :-------------------------:|:-------------------------:|---------------
 ![](assets/krishna_anujan.jpeg)  |  ![](assets/nmb.jpg) | ![](assets/abhishek_gopal.jpg)
 
-![Krishna Anujan](assets/krishna_anujan.jpeg) ![Neha Mohan Babu](assets/nmb.jpg)![](assets/abhishek_gopal.jpg)
+![Krishna Anujan](assets/krishna_anujan.jpeg "Krishna Anujan" width=33%) ![Neha Mohan Babu](assets/nmb.jpg "Krishna Anujan" width=33%)![](assets/abhishek_gopal.jpg "Krishna Anujan" width=33%)
