@@ -5,12 +5,13 @@
 layout: home
 ---
 
+<div align="center">
 **Where** are India's trees?
 
 **How are they changing** over time?
 
 **Who is publishing** information on these?
-
+</div>
 
 ## Why
 
