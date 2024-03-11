@@ -9,6 +9,7 @@ permalink: /team/
 ### Current team
 
 ![Krishna Anujan](assets/krishna_anujan.jpeg){:width="32%"} ![Neha Mohan Babu](assets/nmb.jpg){:width="32%"} ![](assets/abhishek_gopal.jpg){:width="32%"}
+
 | Krishna Anujan   | Neha Mohan Babu | Abhishek Gopal     |
 | :---:        |    :----:   |          :---: |
 | Ecologist and communicator      | Title       | Here's this   |
