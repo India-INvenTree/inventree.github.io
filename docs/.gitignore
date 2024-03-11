@@ -1,4 +1,8 @@
 _site
+
+#currently ignoring posts
+_posts
+
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
