@@ -21,4 +21,4 @@ These data have often been collected **using standard methodologies** and collec
 
 **Widening access to these data**, we want to identify gaps and offer broad-scale insights for future forest conservation, management and restoration.
 
-![](https://github.com/India-INvenTree/metadata-analysis/blob/main/doc/display/Fig1_new.png)
+![](https://github.com/India-INvenTree/metadata-analysis/blob/main/doc/display/Fig1_new.png?raw=TRUE)
