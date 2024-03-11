@@ -6,12 +6,26 @@ layout: home
 ---
 
 <div align="center">
-<strong>Where</strong> are India's trees?<br>
+<h3><strong>Where</strong> are India's trees?</h3><br>
 
-<strong>How are they changing</strong> over time?<br>
+<h3><strong>How are they changing</strong> over time?</h3><br>
 
-<strong>Who is publishing</strong> information on these?
+<h3><strong>Who is publishing</strong> information on these?</h3>
 </div>
+
+**The India Tree Inventory Database (INvenTree)** is collating information from disparate sources and developing a single open-access, searchable database of tree inventory datasets across the country.
+
+## How?
+
+<div align="center">
+<strong>Collating</strong> tree data<br>
+
+<strong>Collaborating</strong> among Indian scientists<br>
+
+<strong>Distilling</strong> novel insights
+</div>
+
+![](assets/Fig1_new.png)
 
 ## Why
 
@@ -21,4 +35,4 @@ These data have often been collected **using standard methodologies** and collec
 
 **Widening access to these data**, we want to identify gaps and offer broad-scale insights for future forest conservation, management and restoration.
 
-![](https://github.com/India-INvenTree/metadata-analysis/blob/main/doc/display/Fig1_new.png?raw=TRUE)
+
