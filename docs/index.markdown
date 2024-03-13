@@ -7,11 +7,11 @@ layout: page
 ---
 
 <div align="center">
-<h2><strong>Where</strong> are India's trees?</h3><br>
+<h2><strong>Where</strong> are India's trees?</h2><br>
 
-<h2><strong>How are they changing</strong> over time?</h3><br>
+<h2><strong>How are they changing</strong> over time?</h2><br>
 
-<h2><strong>Who is publishing</strong> information on these?</h3>
+<h2><strong>Who is publishing</strong> information on these?</h2>
 </div>
 
 
