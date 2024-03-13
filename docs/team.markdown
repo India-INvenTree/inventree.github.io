@@ -16,12 +16,12 @@ permalink: /team/
 ![](assets/aparna_krishnan.jpg){:width="32.75%"} ![](assets/ankitha_jayanth.jpg){:width="32.75%"} ![](assets/tanaya_nair.jpg){:width="32.75%"}
 
 | Aparna Krishnan   | Ankitha Jayanth | Tanaya Nair     |
-| [Personal website](https://krishnaanujan.weebly.com)   | [Personal website](https://neha-mohanbabu.weebly.com/)        | [Personal website](https://sites.google.com/view/jahnavijoshi/team/phd-students?authuser=0#h.f6hb7mex66e5)      |
+| [Personal website]()   | [Personal website]()        | [Personal website]()      |
 
 ![](assets/mahesh_sankaran.jpeg){:width="32.5%"} ![](assets/mahesh_sankaran.jpg){:width="32.5%"} ![](assets/mahesh_sankaran.jpeg){:width="32.5%"}
 
 | Mahesh Sankaran   | 
-| [Personal website](https://krishnaanujan.weebly.com)   | 
+| [Personal website](https://www.ncbs.res.in/faculty/mahesh)   | 
 
 ### Past members
 

@@ -21,7 +21,7 @@
 title: INvenTree
 email: indiainventree@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The India Tree Inventory Database (INvenTree) is collating information from disparate sources and developing a single open-access, searchable database of tree inventory datasets across the country.
+  The India Tree Inventory Database (INvenTree) aims to collate and harmonise tree inventory datasets across India to identify research gaps, promote equitable data sharing and aid synthesis.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
