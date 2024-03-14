@@ -10,7 +10,7 @@ permalink: /team/
 
 ![Krishna Anujan](assets/krishna_anujan.jpeg){:width="32.7%"} ![Neha Mohan Babu](assets/nmb.jpg){:width="32.7%"} ![](assets/abhishek_gopal.jpg){:width="32.7%"}
 
-| Krishna Anujan   | Neha Mohan Babu | Abhishek Gopal     |
+| Krishna Anujan   | Neha Mohanbabu | Abhishek Gopal     |
 | [Personal website](https://krishnaanujan.weebly.com)   | [Personal website](https://neha-mohanbabu.weebly.com/)        | [Personal website](https://sites.google.com/view/jahnavijoshi/team/phd-students?authuser=0#h.f6hb7mex66e5)      |
 
 ![](assets/aparna_krishnan.jpg){:width="32.75%"} ![](assets/ankitha_jayanth.jpg){:width="32.75%"} ![](assets/tanaya_nair.jpg){:width="32.75%"}
