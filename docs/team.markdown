@@ -8,7 +8,7 @@ permalink: /team/
 
 ### Current team
 
-![Krishna Anujan](assets/krishna_anujan.jpeg){: style="float: left"; width=100px}
+![Krishna Anujan](assets/krishna_anujan.jpeg){: style="float: left; width:100px"}
 #<img src="assets/krishna_anujan.jpeg" alt="drawing" width="10%"/>
 Krishna Anujan\
 Ecologist and communicator\
