@@ -27,7 +27,7 @@ CCMB\
 Aparna Krishnan\
 PhD student\
 NCBS and NCF\
-[Personal website]()<br/>
+[Personal website]()  
 
 ![Ankitha Jayanth](assets/ankitha_jayanth.jpg){: style="float: left;border-radius: 50%; width:200px"}  
 Ankitha Jayanth\
