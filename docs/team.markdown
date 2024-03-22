@@ -8,10 +8,11 @@ permalink: /team/
 
 ### Current team
 
-![Krishna Anujan](assets/krishna_anujan.jpeg){: style="float: left"}
+![Krishna Anujan](assets/krishna_anujan.jpeg){: style="float: left"; width="10%"}
 
-Krishna Anujan
-Ecologist and communicator
+Krishna Anujan\
+Ecologist and communicator\
+[Personal website](https://krishnaanujan.weebly.com)
 
 
 ![Krishna Anujan](assets/krishna_anujan.jpeg){:width="32.7%"} ![Neha Mohan Babu](assets/nmb.jpg){:width="32.7%"} ![](assets/abhishek_gopal.jpg){:width="32.7%"}
