@@ -8,12 +8,12 @@ permalink: /team/
 
 ### Current team
 
-![Krishna Anujan](assets/krishna_anujan.jpeg){: style="float: left; border-radius: 50%; width:200px"}
+![Krishna Anujan](assets/krishna_anujan.jpeg){: style="float: left; border-radius: 50%; width:200px"}  
 Krishna Anujan\
 Ecologist and communicator\
 [Personal website](https://krishnaanujan.weebly.com)<br/>
 
-![Neha Mohanbabu](assets/nmb.jpg){: style="float: left;border-radius: 50%; width:200px"}  
+![Neha Mohanbabu](assets/nmb.jpg){: style="float: left;border-radius: 50%; width:200px"}    
 Neha Mohanbabu\
 [Personal website](https://neha-mohanbabu.weebly.com/)<br/>  
 
