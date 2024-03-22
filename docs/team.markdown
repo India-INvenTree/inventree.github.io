@@ -11,11 +11,11 @@ permalink: /team/
 ![Krishna Anujan](assets/krishna_anujan.jpeg){: style="float: left; border-radius: 50%; width:200px"}
 Krishna Anujan\
 Ecologist and communicator\
-[Personal website](https://krishnaanujan.weebly.com)<br/>
+[Personal website](https://krishnaanujan.weebly.com)<br/>  
 
 ![Neha Mohanbabu](assets/nmb.jpg){: style="float: left;border-radius: 50%; width:200px"}
 Neha Mohanbabu\
-[Personal website](https://neha-mohanbabu.weebly.com/)<br/>
+[Personal website](https://neha-mohanbabu.weebly.com/)<br/>  
 
 ![Abhishek Gopal](assets/abhishek_gopal.jpg){: style="float: left; border-radius: 50%; width:200px"}
 Abhishek Gopal\
@@ -37,9 +37,9 @@ Univ Name\
 ![Tanaya Nair](assets/tanaya_nair.jpg){: style="float: left;border-radius: 50%; width:200px"}
 Tanaya Nair\
 Univ Name\
-[Personal website]()\
+[Personal website]()<br/>
 
-![Mahesh Sankaran](assets/mahesh_sankaran.jpeg){: style="float: left;border-radius: 50%; width:200px"}
+![Mahesh Sankaran](assets/mahesh_sankaran.jpg){: style="float: left;border-radius: 50%; width:200px"}
 Mahesh Sankaran\
 NCBS\
 [Personal website](https://www.ncbs.res.in/faculty/mahesh)<br/>
