@@ -8,16 +8,16 @@ permalink: /team/
 
 ### Current team
 
-![Krishna Anujan](assets/krishna_anujan.jpeg){: style="float: left; border-radius: 50%; width:200px"}  
+![Krishna Anujan](assets/krishna_anujan.jpeg){: style="float: left; border-radius: 50%; width:200px; display: block; margin-left: auto; margin-right: auto;"}  
 Krishna Anujan\
 Ecologist and communicator\
 [Personal website](https://krishnaanujan.weebly.com)<br/>  
 
-![Neha Mohanbabu](assets/nmb.jpg){: style="float: left;border-radius: 50%; margin right:15px; width:200px"}    
+![Neha Mohanbabu](assets/nmb.jpg){: style="float: left;border-radius: 50%; margin right:15px; width:200px; display: block; margin-left: auto; margin-right: auto;"}    
 Neha Mohanbabu\
 [Personal website](https://neha-mohanbabu.weebly.com/)<br/>  
 
-![Abhishek Gopal](assets/abhishek_gopal.jpg){: style="float: left; border-radius: 50%; width:200px"}  
+![Abhishek Gopal](assets/abhishek_gopal.jpg){: style="float: left; border-radius: 50%; width:200px; display: block; margin-left: auto; margin-right: auto;"}  
 Abhishek Gopal\
 PhD Candidate\
 CCMB\
