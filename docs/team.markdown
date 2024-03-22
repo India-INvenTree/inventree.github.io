@@ -8,8 +8,8 @@ permalink: /team/
 
 ### Current team
 
-#![Krishna Anujan](assets/krishna_anujan.jpeg){: style="float: left"; width=10%}
-<img src="assets/krishna_anujan.jpeg" alt="drawing" width="10%"/>
+![Krishna Anujan](assets/krishna_anujan.jpeg){: style="float: left"; width=100px}
+#<img src="assets/krishna_anujan.jpeg" alt="drawing" width="10%"/>
 Krishna Anujan\
 Ecologist and communicator\
 [Personal website](https://krishnaanujan.weebly.com)
