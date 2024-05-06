@@ -14,7 +14,7 @@ Ecologist and communicator\
 ForestGEO and Smithsonian Institution\
 [Personal website](https://krishnaanujan.weebly.com)<br/>  
 
-![Neha Mohanbabu](assets/nmb.jpg){: style="float: left;border-radius: 50%; width:120px; display: block; margin-left: auto; margin-right: auto;"}    
+![Neha Mohanbabu](assets/nmb.jpg){: style="float: left;border-radius: 50%; width:120px; display: block; margin-left: auto; margin-right: 15px;"}    
 Neha Mohanbabu\
 Postdoctoral researcher\
 University of Minnesota\
@@ -35,7 +35,8 @@ National Centre for Biological Sciences and Nature Conservation Foundation\
 ![Ankitha Jayanth](assets/ankitha_jayanth.jpg){: style="float: left;border-radius: 50%; width:120px"}  
 Ankitha Jayanth\
 MS Ecology Student\
-University of South Bohemia<br/>
+University of South Bohemia\
+      <br/>
 
 ![Tanaya Nair](assets/tanaya_nair.jpg){: style="float: left;border-radius: 50%; width:120px"}  
 Tanaya Nair\
@@ -46,7 +47,8 @@ University of Oxford\
 ![Mahesh Sankaran](assets/mahesh_sankaran.jpg){: style="float: left;border-radius: 50%; width:120px"}
 Mahesh Sankaran\
 National Centre for Biological Sciences\
-[Personal website](https://www.ncbs.res.in/faculty/mahesh)<br/>
+[Personal website](https://www.ncbs.res.in/faculty/mahesh)
+     <br/>
 
 
 ### Past members
