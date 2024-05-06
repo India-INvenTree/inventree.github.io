@@ -28,7 +28,7 @@ layout: page
 <strong>Distilling</strong> novel insights
 </div>
 
-![](assets/Fig1_new.png)
+![](assets/Fig1.png)
 
 ## Why
 
