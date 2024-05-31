@@ -4,21 +4,21 @@ title: Who We Are
 permalink: /team/
 ---
 
-#### We are a team of researchers across institutions
+#### We are a team of researchers across institutions who have been volunteering our time. Write to us if you are interesting in joining.
 
 ### Our Values
 
-#### FAIR data
+#### - FAIR data
 Making forest data from India Findable, Accessible, Interoperable and Reusable. 
 [Read more](https://www.go-fair.org/fair-principles/) about the FAIR guidelines.
 
-#### Fair sharing
+#### - Fair sharing
 Committing to data sharing practices that center data owners, especially in India.
 
-#### Reproducible methods
+#### - Reproducible methods
 We aim to make all our processes transparent and reproducible through GitHub.
 
-#### Collaborative learning
+#### - Collaborative learning
 Sharing tools and techniques among forest researchers in India.
 
 

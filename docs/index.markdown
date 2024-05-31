@@ -38,4 +38,6 @@ These data have often been collected **using standard methodologies** and collec
 
 **Widening access to these data**, we want to identify gaps and offer broad-scale insights for future forest conservation, management and restoration.
 
+Read our first preprint [here](https://www.biorxiv.org/content/10.1101/2024.05.18.594774v1)
+
 
