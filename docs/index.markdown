@@ -15,7 +15,7 @@ layout: page
 </div>
 
 
-### **The India Tree Inventory Database (INvenTree)** is collating information from disparate sources and developing a single open-access, searchable database of tree inventory datasets across the country.
+### **The India Tree Inventory Network (INvenTree)** is collating tree inventory datasets from disparate datasets across the country towards syntheses that will benefit ecological research and researchers.
 
 
 ## How?
@@ -32,7 +32,7 @@ layout: page
 
 ## Why
 
-Over the last few decades, Indian researchers have published *over 400 papers* using data from tree inventories across a large range of ecosystems. Even more data languishes in the unpublished literature, such as environment impact assessment reports and masters’ theses.
+Over the last few decades, Indian researchers have published *over 450 papers* using data from tree inventories across a large range of ecosystems.
 
 These data have often been collected **using standard methodologies** and collectively span large space and time ranges. When synthesised, they can provide strong baselines and unmatched insights into India’s ecosystems, beyond the constraints that limit primary ecological data collection. 
 

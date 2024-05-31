@@ -5,11 +5,14 @@ permalink: /resources/
 ---
 
 
-Read the preprint of our paper here
+Read the preprint of our paper [here](https://www.biorxiv.org/content/10.1101/2024.05.18.594774v1)
 
-Read a summary here
 
-Download full dataset here
+Coming soon: 
 
-Explore data here
+Read a summary
+
+Download full dataset
+
+Explore data
 
