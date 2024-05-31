@@ -1,12 +1,28 @@
 ---
 layout: page
-title: Team
+title: Who We Are
 permalink: /team/
 ---
 
-#### We are a team of early career researchers across institutions
+#### We are a team of researchers across institutions
 
-### Current team
+### Our Values
+
+#### FAIR data
+Making forest data from India Findable, Accessible, Interoperable and Reusable. 
+[Read more](https://www.go-fair.org/fair-principles/) about the FAIR guidelines.
+
+#### Fair sharing
+Committing to data sharing practices that center data owners, especially in India.
+
+#### Reproducible methods
+We aim to make all our processes transparent and reproducible through GitHub.
+
+#### Collaborative learning
+Sharing tools and techniques among forest researchers in India.
+
+
+### Working group
 
 ![Krishna Anujan](assets/krishna_anujan.jpeg){: style="float: left; border-radius: 50%; width:120px; display: block; margin-left: auto; margin-right: 15px;"}  
 Krishna Anujan\
