@@ -32,8 +32,8 @@ header_pages:
   - contribute.markdown
 
 # Build settings
-theme: minima
-#remote_theme: academicpages
+#theme: minima
+remote_theme: academicpages/academicpages.github.io
 plugins:
 #  - jekyll-feed
 
