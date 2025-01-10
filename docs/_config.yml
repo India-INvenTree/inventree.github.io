@@ -32,11 +32,11 @@ header_pages:
   - contribute.markdown
 
 # Build settings
-#theme: minima
-remote_theme: academicpages/academicpages.github.io
+theme: minima
+#remote_theme: academicpages/academicpages.github.io
 plugins:
 #  - jekyll-feed
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
