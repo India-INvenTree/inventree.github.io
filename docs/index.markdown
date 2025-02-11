@@ -14,7 +14,8 @@ layout: page
 <h4><strong>Who is publishing</strong> information on these?</h4>
 </div> -->
 
-<iframe src="assets/intro_slides.html" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
+<iframe src="assets/intro_slides.html" width="100%" height="400px" frameborder="0" allowfullscreen></iframe>
+
 
 ### **The India Tree Inventory Network (INvenTree)** is collating tree inventory datasets from disparate datasets across the country towards syntheses that will benefit ecological research and researchers.
 
