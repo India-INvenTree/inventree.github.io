@@ -6,14 +6,15 @@ layout: page
 #list_title: ' '
 ---
 
-<div align="center">
+<!-- <div align="center">
 <h4><strong>Where</strong> are India's trees?</h4><br>
 
 <h4><strong>How are they changing</strong> over time?</h4><br>
 
 <h4><strong>Who is publishing</strong> information on these?</h4>
-</div>
+</div> -->
 
+<iframe src="assets/intro_slides.html" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
 
 ### **The India Tree Inventory Network (INvenTree)** is collating tree inventory datasets from disparate datasets across the country towards syntheses that will benefit ecological research and researchers.
 

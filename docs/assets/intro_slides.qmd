@@ -1,0 +1,19 @@
+---
+title: ""
+format:
+    revealjs:
+        autoSlide: 3000 # Auto-slide interval in milliseconds (5000ms = 5 seconds)
+        loop: true
+        transition: slide
+        css: styles.css
+        width: 1000
+        height: 500
+        embed-resources: true
+---
+
+# Where are India's trees? {background-image="chinnar.jpg"}
+
+
+# How are they changing over time? {background-image="alstonia.jpg"}
+
+# Who is publishing information on them?
