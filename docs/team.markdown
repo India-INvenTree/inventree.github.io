@@ -33,7 +33,7 @@ ForestGEO and Smithsonian Institution\
 ![Neha Mohanbabu](assets/nmb.jpg){: style="float: left;border-radius: 50%; width:120px; display: block; margin-left: auto; margin-right: 15px;"}    
 Neha Mohanbabu\
 Postdoctoral researcher\
-University of Minnesota\
+Utrecht University\
 [Personal website](https://neha-mohanbabu.weebly.com/)<br/>  
 
 ![Abhishek Gopal](assets/abhishek_gopal.jpg){: style="float: left; border-radius: 50%; width:120px; display: block; margin-left: auto; margin-right: 15px;"}  
