@@ -9,6 +9,7 @@ format:
         width: 1000
         height: 500
         embed-resources: true
+        progress: false
 ---
 
 # Where are India's trees? {background-image="chinnar.jpg"}
@@ -16,4 +17,4 @@ format:
 
 # How are they changing over time? {background-image="alstonia.jpg"}
 
-# Who is publishing information on them?
+# Who is publishing information on them?{background-image="people_bg_remove.png"}
